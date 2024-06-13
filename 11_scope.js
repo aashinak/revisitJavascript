@@ -18,7 +18,7 @@
 // function first() {
 //     console.log("First");
 // }
-
+// hoisting
 // second() // ReferenceError: Cannot access 'second' before initialization
 // const second = function () {
 //     console.log("Second");
