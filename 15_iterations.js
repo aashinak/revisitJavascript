@@ -15,7 +15,7 @@
 //     // console.log(greet);        // H E L L O  W O R L D !
 // }
 
-// map
+///////////////////// map /////////////////////////
 // no duplicate keys in map
 // const map = new Map()
 // map.set("IN", "India")
